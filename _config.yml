@@ -1,3 +1,4 @@
+---
 title: Mi primera GitHub Page
 author: Guillermo Bances
 email: guillermobancesbulnes@gmail.com
@@ -13,3 +14,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
